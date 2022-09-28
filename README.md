@@ -1,1 +1,2 @@
-# digital-logic-design
+# Digital-Logic-Design
+
